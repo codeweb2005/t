@@ -1,0 +1,21 @@
+table {
+            width: 100%;
+            border-collapse: collapse;
+        
+        }
+        th, td {
+            text-align: left;
+            
+        }
+        th {
+            background-color: lightskyblue;
+        }
+        .filter-section {
+            margin-bottom: 20px;
+        }
+label{
+    display: inline;
+}
+.main {
+    font-family: "Dancing Script", cursive;
+   }

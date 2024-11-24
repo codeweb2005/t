@@ -1,0 +1,83 @@
+
+h1,h2 {
+    font-family: "Dancing Script", cursive;
+  }
+  
+        
+        .product-form {
+            margin-bottom: 20px;
+            
+       
+        }
+        .product-item p,button{
+            margin: 20px;
+        }
+        .product-item p{
+            font-size: 15px;
+            font-weight: bold;
+        }
+
+        .product-form input{
+            border-radius:5px;
+
+        }
+        .product-list {
+            margin-top: 20px;
+            
+        
+        }
+        .product-item {
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            display: flex;
+            width: 100%;
+            box-shadow: 1px 1px 1px 1px rgb(139, 138, 138);
+        }
+        .product-image {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+        }
+        button {
+            margin-top: 10px;
+            
+        }
+ .main{
+    margin: 0 auto;
+    padding: 20px 40px;
+    
+ }
+
+ #toggleSidebarr{
+    font-size: 30px;
+ }
+#form{
+    left: 300px;
+}
+label {
+    display: block;
+    margin-top: 20px;
+
+}
+h1 {
+    text-align: center;
+}
+input[type="text"], input[type="number"], input[type="password"], select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.button {
+    text-align: center;
+    margin-top: 20px;
+}
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #f2f2f2;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+}
